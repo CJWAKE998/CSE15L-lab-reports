@@ -9,5 +9,6 @@ The next step is to attempt to remote connect to the ieng6 servers at UCSD. What
 ![Lab report 1 remote connecting](https://user-images.githubusercontent.com/97641362/149598933-f7edc213-3474-43cd-a678-39e4c0b24984.png)
 
 Here are some commands I was testing, as you can see they are running successfully.
+![Lab report 1 trying some commands](https://user-images.githubusercontent.com/97641362/149599624-2e5f7b35-c97c-4b17-ba3d-565449f309a7.png)
 
 
