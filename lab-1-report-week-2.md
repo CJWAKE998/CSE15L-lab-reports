@@ -12,4 +12,4 @@ Here are some commands I was testing, as you can see they are running successful
 ![Lab report 1 trying some commands](https://user-images.githubusercontent.com/97641362/149599624-2e5f7b35-c97c-4b17-ba3d-565449f309a7.png)
 
 Next, I attempted to securley copied a file on my computer, and then put it into the ieng6 server. Here is a screenshot of that successfully happening.
-
+![Lab report 1 successful scp](https://user-images.githubusercontent.com/97641362/149600154-0946e2af-4460-4981-9cec-fca15dc79170.png)
