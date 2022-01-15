@@ -15,3 +15,4 @@ Next, I attempted to securley copied a file on my computer, and then put it into
 ![Lab report 1 successful scp](https://user-images.githubusercontent.com/97641362/149600154-0946e2af-4460-4981-9cec-fca15dc79170.png)
 
 After that I showed how to create an ssh key. I did this my typing in the commands given in lab 1
+![Lab report 1 SSH key](https://user-images.githubusercontent.com/97641362/149600733-645b1af4-fdf7-4050-96f3-63efea999194.png)
