@@ -16,3 +16,7 @@ Next, I attempted to securley copied a file on my computer, and then put it into
 
 After that I showed how to create an ssh key. I did this my typing in the commands given in lab 1
 ![Lab report 1 SSH key](https://user-images.githubusercontent.com/97641362/149600733-645b1af4-fdf7-4050-96f3-63efea999194.png)
+
+Finally, here are some commands that can make your time easier when connecting and finding you directory using ssh and connecting to the server. Here is a screenshot
+of me doing some.
+![Lab report 1 optimization](https://user-images.githubusercontent.com/97641362/149600929-f44a71ee-11bf-463e-8352-b8b0d1022de5.png)
