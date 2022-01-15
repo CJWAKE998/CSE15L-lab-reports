@@ -13,3 +13,5 @@ Here are some commands I was testing, as you can see they are running successful
 
 Next, I attempted to securley copied a file on my computer, and then put it into the ieng6 server. Here is a screenshot of that successfully happening.
 ![Lab report 1 successful scp](https://user-images.githubusercontent.com/97641362/149600154-0946e2af-4460-4981-9cec-fca15dc79170.png)
+
+After that I showed how to create an ssh key. I did this my typing in the commands given in lab 1
