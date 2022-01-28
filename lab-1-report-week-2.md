@@ -26,5 +26,5 @@ After that I showed how to create an ssh key. I did this my typing in the comman
 
 ## Step 6
 Finally, here are some commands that can make your time easier when connecting and finding you directory using ssh and connecting to the server. Here is a screenshot
-of me doing some.
+of me doing some. The way I was able to enter this code in much quicker than just simply typing it in, is because I made use of the arrow keys, which allow me to pull up previous commands that I may have already typed. This method is the main thing I do when working on PA's, because it saves a lot of time when testing a program, especially when jUnit is involved.
 ![Lab report 1 optimization](https://user-images.githubusercontent.com/97641362/149600929-f44a71ee-11bf-463e-8352-b8b0d1022de5.png)
