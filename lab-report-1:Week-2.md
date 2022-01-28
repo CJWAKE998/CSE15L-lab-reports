@@ -2,7 +2,8 @@
 
 
 ## Step 1
-The first step I did was make sure I had VScode installed on my computer
+The first step I did was make sure I had VScode installed on my computer.
+Link to VSCode: [https://code.visualstudio.com/](url)
 
 ![Lab report 1 VScode screenshot](https://user-images.githubusercontent.com/97641362/149598023-f06ae688-6856-46b8-86d9-4b694a1020ad.png)
 
