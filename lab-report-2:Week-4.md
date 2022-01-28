@@ -7,3 +7,7 @@ This was the first file I made that was giving me errors, as you can see I was g
 Link to first test file: [https://github.com/CJWAKE998/markdown-parse/commit/560166b54512a30efeeba5eafe2d2d1ab4046e3c#diff-c1ee2d48f5f64b4463a98907818b5846f49cc9dd67f88882a8b551106ec320fb](url) <br>
 
 This was the output originally: <br>
+![error file 1](https://user-images.githubusercontent.com/97641362/151629780-ebaa1fa6-fb79-44d5-a7ad-d6e97deda09a.png)
+We can see that the bug caused by the failure-inducing input was due to the bracket being missing for one of the links. This resulted in the program to continously search for another link but could not find the final closing bracket, which caused the heap space error.
+
+## Second change made to code
