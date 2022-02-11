@@ -1,7 +1,7 @@
 # Lab Report 2
 
 ## First change made to code
-Link to commit: [markdown-parse](https://github.com/CJWAKE998/markdown-parse/commit/6843713c1973ce980f87b705b2c6407a968c9fcc)
+Link to commit: [Changed MrkDwnPrs to work for TestFile2](https://github.com/CJWAKE998/markdown-parse/commit/6843713c1973ce980f87b705b2c6407a968c9fcc)
 ![CODE CHANGE 1](https://user-images.githubusercontent.com/97641362/151629212-6b3ae171-1699-45b4-ae77-18ff9bc9994d.png)
 
 This was the first file I made that was giving me errors, as you can see I was getting a heap space error <br>
