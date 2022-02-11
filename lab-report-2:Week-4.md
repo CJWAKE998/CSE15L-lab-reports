@@ -11,7 +11,7 @@ This was the output originally: <br>
 ![error file 1](https://user-images.githubusercontent.com/97641362/151629780-ebaa1fa6-fb79-44d5-a7ad-d6e97deda09a.png)
 We can see that the bug caused by the failure-inducing input was due to the bracket being missing for one of the links. This resulted in the program to continously search for another link but could not find the final closing bracket, which caused the heap space error.
 
-Link to second and third test files: [https://github.com/CJWAKE998/markdown-parse/commit/43fcaeb7b8071284e0adf3bf247a7564b784fa7f#diff-72d0164ca2d60c8d0fdc3b1a93d3e1a746eb8532639f111eda62faf046aa6f92](url) <br>
+Link to second and third test files: [Second and third test files](https://github.com/CJWAKE998/markdown-parse/commit/43fcaeb7b8071284e0adf3bf247a7564b784fa7f#diff-72d0164ca2d60c8d0fdc3b1a93d3e1a746eb8532639f111eda62faf046aa6f92) <br>
 
 As we can see, the changes I made to MarkdownParse ended up fixing all the test files. This is because it reaches the if statement each time, and if anything is out of bounds it just jumps out of the loop, preventing an error. I hope this is sufficient, if I need to make any changes I will after recieving feedback.
 
