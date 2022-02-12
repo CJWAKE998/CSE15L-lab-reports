@@ -13,5 +13,11 @@ As you can see, after logging into ieng6, I was able to successfully compile and
 
 ## Scp -r and running command with one input
 
+![Lab report 3 running on one command line](https://user-images.githubusercontent.com/97641362/153688523-f85ec515-64f0-4bab-81e8-8c9d62d3b875.png)
+As you can see, I was able to successfully use `;` to run multiple commands on one line which copied the directory into the server, log into the server,
+and run the tests. <br>
+
+Command used: `scp -r *.java *.md lib/ cs15lwi22ahk@ieng6.ucsd.edu:markdown-parse ; ssh cs15lwi22ahk@ieng6.ucsd.edu "cd markdown-parse; /software/CSE/oracle-java-se-14/jdk-14.0.2/bin/java 
+-cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.12.jar MarkdownParseTest.java; /software/CSE/oracle-java-se-14/jdk-14.0.2/bin/java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.12.jar org.junit.runner.JUnitCore MarkdownParseTest"` (I was running into the path file error, but used the workaround provided on piazza, that's why this command seems unusually long)
 
 
