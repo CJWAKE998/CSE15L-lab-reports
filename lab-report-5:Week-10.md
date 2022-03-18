@@ -5,5 +5,5 @@ After my group fixed parts of our bash script in which fixed some of the commonm
 When running `vimdiff lab9/markdown-parse/results.txt  markdown-parse/results.txt`
 ![Lab report 5 vimdiff screenshot](https://user-images.githubusercontent.com/97641362/158958476-31904625-a73b-4411-96bb-41614c7761ab.png)
 - As you can see, this screenshot contains both files and you can see that I was expecting the output of `[]` for both, but since they were causing an
-infinite loop I changed the file name which removed the output so that way the infinite loop won't trigger again. Changing the name essentially caused the program to skip over this file, based on the configuration of the program.
+infinite loop I changed the file name which removed the output so that way the infinite loop won't trigger again. Changing the name essentially caused the program to skip over this file, based on the configuration of the program. The two files I mentioned are highlighted in blue.
 
